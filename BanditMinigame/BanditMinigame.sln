@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ACEBF4E0-FE95-9775-3AB0-8BCFD822FF65}") = "BanditMinigame", "Assembly-CSharp.csproj", "{C85E7168-DECE-08D2-C6DF-15B9564A808F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85E7168-DECE-08D2-C6DF-15B9564A808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85E7168-DECE-08D2-C6DF-15B9564A808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85E7168-DECE-08D2-C6DF-15B9564A808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85E7168-DECE-08D2-C6DF-15B9564A808F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
